@@ -1,0 +1,5 @@
+Model,Task,Primary Metric (AUC),Secondary Metric,Primary Metric (R²),Secondary Metric (RMSE)
+Logistic Regression,Classification,0.7912600575773234,N/A,,
+Random Forest Classifier,Classification,0.8436628035727467,N/A,,
+Ridge Regression,Regression,,,0.12722731037239932,2.343185428988998
+Random Forest Regressor,Regression,,,0.36666345537587774,1.996058926610712
